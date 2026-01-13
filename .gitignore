@@ -1,0 +1,37 @@
+# Zig
+zig-cache/
+.zig-cache/
+zig-out/
+
+# System
+.DS_Store
+*.swp
+*~
+*.log
+
+# IDE / Tooling
+.vscode/
+.idea/
+.gemini/
+
+# Project Context
+
+SYSTEM_PROMPT.md
+
+DEV_PLAN.md
+
+DEV_PLAN_PHASE_2.md
+
+
+
+# Specs
+
+.spec/
+
+
+
+
+
+# Local Config
+
+.config/
